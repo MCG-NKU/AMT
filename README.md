@@ -3,7 +3,7 @@
 
 This repository contains the official implementation of the following paper:
 > **AMT: All-Pairs Multi-Field Transforms for Efficient Frame Interpolation**<br>
-> [Zhen Li](https://paper99.github.io/)<sup>\*</sup>, [Zuo-Liang Zhu](https://nk-cs-zzl.github.io/)<sup>\*</sup>, [Ling-Hao Han](https://scholar.google.com/citations?user=0ooNdgUAAAAJ&hl=en), [Qibin Hou](https://scholar.google.com/citations?hl=en&user=fF8OFV8AAAAJ&view_op=list_works), [Chun-Le Guo](https://scholar.google.com/citations?hl=en&user=RZLYwR0AAAAJ),  [Ming-Ming Cheng](https://mmcheng.net/)<br>
+> [Zhen Li](https://paper99.github.io/)<sup>\*</sup>, [Zuo-Liang Zhu](https://nk-cs-zzl.github.io/)<sup>\*</sup>, [Ling-Hao Han](https://scholar.google.com/citations?user=0ooNdgUAAAAJ&hl=en), [Qibin Hou](https://scholar.google.com/citations?hl=en&user=fF8OFV8AAAAJ&view_op=list_works), [Chun-Le Guo](https://scholar.google.com/citations?hl=en&user=RZLYwR0AAAAJ),  [Ming-Ming Cheng](https://mmcheng.net/cmm)<br>
 > (\* denotes equal contribution) <br>
 > Nankai University <br>
 > In CVPR 2023<br>
