@@ -40,18 +40,18 @@ out_path = args.out_path
 iters = int(args.niters)
 frame_rate = int(args.frame_rate)
 save_images = args.save_images
-if device == 'cpu':
-    # Do not resize in cpu mode
-    anchor_resolution = 8192*8192
-    anchor_memory = 1
-    anchor_memory_bias = 0
-    vram_avail = 1
-elif device == 'cuda':
+if device == 'cuda':
     anchor_resolution = 1024 * 512
     anchor_memory = 1500 * 1024**2
     anchor_memory_bias = 2500 * 1024**2
     vram_avail = torch.cuda.get_device_properties(device).total_memory
     print("VRAM available: {:.1f} MB".format(vram_avail / 1024 ** 2))
+else:
+    # Do not resize in cpu mode
+    anchor_resolution = 8192*8192
+    anchor_memory = 1
+    anchor_memory_bias = 0
+    vram_avail = 1
 
 # ----------------------- Parse input ----------------------- 
 ## ------------------- Video input -------------------
