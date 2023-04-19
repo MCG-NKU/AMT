@@ -20,7 +20,7 @@ It aims to provide practical solutions for **video generation** from **a few giv
 * More examples can be found in our [project page](https://nk-cs-zzl.github.io/projects/amt/index.html).
 
 ## Web demos
-Integrated into [Hugging Face Spaces 🤗](https://huggingface.co/spaces) using [Gradio](https://github.com/gradio-app/gradio). Try out the Web Demo: [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/johngoad/frame-interpolation)
+Integrated into [Hugging Face Spaces 🤗](https://huggingface.co/spaces) using [Gradio](https://github.com/gradio-app/gradio). Try out the Web Demo: [![Hugging Face Spaces](https://huggingface.co/spaces/NKU-AMT/AMT)
 
 Try AMT to interpolate between two or more images at [![PyTTI-Tools:FILM](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1IeVO5BmLouhRh6fL2z_y18kgubotoaBq?usp=sharing)
 
