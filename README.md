@@ -8,7 +8,7 @@ This repository contains the official implementation of the following paper:
 > Nankai University <br>
 > In CVPR 2023<br>
 
-[[Paper](https://github.com/MCG-NKU/E2FGVI)]
+[[Paper](https://arxiv.org/abs/2304.09790)]
 [[Project Page](https://nk-cs-zzl.github.io/projects/amt/index.html)]
 [[Web demos](#web-demos)]
 [Video]
@@ -32,7 +32,7 @@ Try AMT to interpolate between two or more images at [![PyTTI-Tools:FILM](https:
 ## Method Overview
 ![pipeline](https://user-images.githubusercontent.com/21050959/229420451-65951bd0-732c-4f09-9121-f291a3862d6e.png)
 
-For technical details, please refer to the [method.md](docs/method.md) file, or read the full report on [arXiv]().
+For technical details, please refer to the [method.md](docs/method.md) file, or read the full report on [arXiv](https://arxiv.org/abs/2304.09790).
 
 ## Dependencies and Installation
 1. Clone Repo
