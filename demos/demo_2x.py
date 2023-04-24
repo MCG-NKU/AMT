@@ -65,8 +65,8 @@ if osp.splitext(input_path[0])[1] in ['.mp4', '.avi', '.mov', '.mkv', '.flv', '.
     if frame_rate == 0:
         frame_rate = ori_frame_rate * 2 ** iters
     inputs = []
-    h = int(vcap.get(cv2.CAP_PROP_FRAME_WIDTH))
-    w = int(vcap.get(cv2.CAP_PROP_FRAME_HEIGHT))
+    w = int(vcap.get(cv2.CAP_PROP_FRAME_WIDTH))
+    h = int(vcap.get(cv2.CAP_PROP_FRAME_HEIGHT))
     scale = anchor_resolution / (h * w) * np.sqrt((vram_avail - anchor_memory_bias) / anchor_memory)
     scale = 1 if scale > 1 else scale
     scale = 1 / np.floor(1 / np.sqrt(scale) * 16) * 16
