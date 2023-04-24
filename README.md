@@ -159,4 +159,9 @@ Here are some great resources we benefit from:
 
 **If you develop/use AMT in your projects, welcome to let us know. We will list your projects in this repository.**
 
-We also thank potential future contributors. 
+We also thank all of our contributors.
+
+<a href="https://github.com/MCG-NKU/AMT/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=MCG-NKU/AMT" />
+</a>
+
