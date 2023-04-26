@@ -88,28 +88,28 @@ For technical details, please refer to the [method.md](docs/method.md) file, or 
 <tbody>
   <tr>
     <td>AMT-S</td>
-    <th> [<a href="https://drive.google.com/file/d/1WmOKmQmd6pnLpID8EpUe-TddFpJuavrL/view?usp=share_link">Google Driver</a>][<a href="https://pan.baidu.com/s/1yGaNLeb9TG5-81t0skrOUA?pwd=f66n">Baidu Cloud</a>]</th>
+    <th> [<a href="https://drive.google.com/file/d/1WmOKmQmd6pnLpID8EpUe-TddFpJuavrL/view?usp=share_link">Google Driver</a>][<a href="https://pan.baidu.com/s/1yGaNLeb9TG5-81t0skrOUA?pwd=f66n">Baidu Cloud</a>][<a href="https://huggingface.co/lalala125/AMT/resolve/main/amt-s.pth">Hugging Face</a>] </th>
     <th> [<a href="cfgs/AMT-S.yaml">cfgs/AMT-S</a>] </th>
     <th>Vimeo90k</th>
     <th>Fixed</th>
   </tr>
   <tr>
     <td>AMT-L</td>
-    <th>[<a href="https://drive.google.com/file/d/1UyhYpAQLXMjFA55rlFZ0kdiSVTL7oU-z/view?usp=share_link">Google Driver</a>][<a href="https://pan.baidu.com/s/1qI4fBgS405Bd4Wn1R3Gbeg?pwd=nbne">Baidu Cloud</a>]</th>
+    <th>[<a href="https://drive.google.com/file/d/1UyhYpAQLXMjFA55rlFZ0kdiSVTL7oU-z/view?usp=share_link">Google Driver</a>][<a href="https://pan.baidu.com/s/1qI4fBgS405Bd4Wn1R3Gbeg?pwd=nbne">Baidu Cloud</a>][<a href="https://huggingface.co/lalala125/AMT/resolve/main/amt-l.pth">Hugging Face</a>]</th>
     <th> [<a href="cfgs/AMT-L.yaml">cfgs/AMT-L</a>] </th>
     <th>Vimeo90k</th>
     <th>Fixed</th>
   </tr>
   <tr>
     <td>AMT-G</td>
-    <th>[<a href="https://drive.google.com/file/d/1yieLtKh4ei3gOrLN1LhKSP_9157Q-mtP/view?usp=share_link">Google Driver</a>][<a href="https://pan.baidu.com/s/1AjmQVziQut1bXgQnDcDKvA?pwd=caf6">Baidu Cloud</a>]</th>
+    <th>[<a href="https://drive.google.com/file/d/1yieLtKh4ei3gOrLN1LhKSP_9157Q-mtP/view?usp=share_link">Google Driver</a>][<a href="https://pan.baidu.com/s/1AjmQVziQut1bXgQnDcDKvA?pwd=caf6">Baidu Cloud</a>][<a href="https://huggingface.co/lalala125/AMT/resolve/main/amt-g.pth">Hugging Face</a>] </th>
     <th> [<a href="cfgs/AMT-G.yaml">cfgs/AMT-G</a>] </th>
     <th>Vimeo90k</th>
     <th>Fixed</th>
   </tr>
   <tr>
     <td>AMT-S</td>
-    <th>[<a href="https://drive.google.com/file/d/1f1xAF0EDm-rjDdny8_aLyeedfM0QL4-C/view?usp=share_link">Google Driver</a>][<a href="https://pan.baidu.com/s/1eZtoULyduQM8AkXeYEBOEw?pwd=8hy3">Baidu Cloud</a>]</th>
+    <th>[<a href="https://drive.google.com/file/d/1f1xAF0EDm-rjDdny8_aLyeedfM0QL4-C/view?usp=share_link">Google Driver</a>][<a href="https://pan.baidu.com/s/1eZtoULyduQM8AkXeYEBOEw?pwd=8hy3">Baidu Cloud</a>][<a href="https://huggingface.co/lalala125/AMT/resolve/main/gopro_amt-s.pth">Hugging Face</a>] </th>
     <th> [<a href="cfgs/AMT-S_gopro.yaml">cfgs/AMT-S_gopro</a>] </th>
     <th>GoPro</th>
     <th>Arbitrary</th>
